@@ -36,6 +36,7 @@ class Emp1
 		System.out.println(e1.name);
 		System.out.println(e2.name);
 		e1.show();
-		System.out.println(add(10,20));
+		// System.out.println(add(10,20));
+		// System.out.println(add(20,40));
 	}
 }
